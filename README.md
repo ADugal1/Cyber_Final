@@ -8,4 +8,4 @@ Implement the alarms and thresholds you determined would be effective in Project
 
 Assess two more vulnerable VMs and verify that the rules work as expected.
 
-Use Wireshark to analyze live malicious traffic.
+Use Wireshark to analyze malicious traffic.
